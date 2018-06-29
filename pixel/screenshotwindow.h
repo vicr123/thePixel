@@ -6,6 +6,7 @@
 #include <QPaintEvent>
 #include <QPainter>
 #include <QTimer>
+#include <QFileDialog>
 #include <tvariantanimation.h>
 
 namespace Ui {

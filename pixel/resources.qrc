@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>thepixel.svg</file>
+    </qresource>
+</RCC>

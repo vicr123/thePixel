@@ -30,7 +30,8 @@ SOURCES += \
 
 HEADERS += \
         mainwindow.h \
-    screenshotwindow.h
+    screenshotwindow.h \
+    interfaces.h
 
 FORMS += \
         mainwindow.ui \
@@ -52,3 +53,6 @@ unix {
 
     INSTALLS += target appentry icon
 }
+
+RESOURCES += \
+    resources.qrc
